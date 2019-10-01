@@ -4,7 +4,6 @@
  Indhold af C:\Users\jwe\tuesday
 
 01-10-2019  10:25    <DIR>          .
-01-10-2019  10:25    <DIR>          ..
 01-10-2019  10:25                 0 file1.txt
 01-10-2019  07:20                 9 README.md
                2 fil(er)                9 byte
