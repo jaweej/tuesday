@@ -1,0 +1,11 @@
+ Disken i drev C er OSDisk
+ Diskens serienummer er B0A8-D3D4
+
+ Indhold af C:\Users\jwe\tuesday
+
+01-10-2019  10:25    <DIR>          .
+01-10-2019  10:25    <DIR>          ..
+01-10-2019  10:25                 0 file1.txt
+01-10-2019  07:20                 9 README.md
+               2 fil(er)                9 byte
+               2 mappe(r)  121.222.230.016 byte ledig
